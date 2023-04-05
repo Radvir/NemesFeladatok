@@ -35,7 +35,7 @@ static List<int> read()
 
             for (int i = 0; i < list.Count; i++)
             {
-                
+                // https://njudge.hu/problemset/main/NT23_Aranycipok/
             }
         }
     }
