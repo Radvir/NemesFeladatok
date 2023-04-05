@@ -30,7 +30,13 @@ static List<int> read()
 
         public static void Main(string[] args)
         {
-            
+            List<int> list = read();
+            Dictionary<string, int> result = new Dictionary<string, int>();
+
+            for (int i = 0; i < list.Count; i++)
+            {
+                
+            }
         }
     }
 }
